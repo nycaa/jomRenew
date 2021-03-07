@@ -1,4 +1,4 @@
-Thank you for using our template! (test changes)
+Thank you for using our template! (test changes on branch dev)
 
 For more awesome templates please visit https://colorlib.com/wp/templates/
 
